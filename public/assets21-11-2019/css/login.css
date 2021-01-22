@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500|Sarabun:400,600,700);
+body {font-family: Roboto, sans-serif; color: #ffffff; font-size: 14px; background: #ffffff;}
+.Login_wrapper{width: 100%; position: relative; height: 100vh; background: #ffffff; overflow: hidden;}
+.skew_background{width: 100%; height: 100vh; background: #b2fed5; transform: skewY(-82deg); position: absolute; top: 0; right: 0; bottom: 0; left: 0;}
+.half_bg_color{position: absolute; top: 0; right: 0; bottom: 0; width: 50%; background: #b2fed5;}
+.inside_wrapper{position: absolute; top: 15%; right: 5%; bottom: 15%; left: 5%; background: #ffffff; box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.3); overflow: hidden; z-index: 1;}
+.inside_skew_background{width: 100%; height: 100vh; background: #b2fed5; transform: skewY(-82deg); position: absolute; top: 0; right: 0; bottom: 0; left: -13px;}
+.inside_half_bg_color{position: absolute; top: 0; right: 0; bottom: 0; width: 50%; background: #b2fed5;}
+.main_wrapper{display: table; width: 100%; height: 100%; position: relative; z-index: 1;}
+.wrapper_inside{display: table-row; width: 100%; vertical-align: middle; height: 100%;}
+.grc_logo, .login_form{width: 50%; display: table-cell; height: 100%; vertical-align: middle;}
+.grc_logo img{width: 100%; max-width: 170px; display: block; margin: auto;}
+form{width: 100%; max-width: 400px; margin: auto;}
+.login_form label{color: #333333;}
+.recover_password{text-align: right; color: #}

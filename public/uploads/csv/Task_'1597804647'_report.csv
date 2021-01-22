@@ -1,0 +1,50 @@
+S.No,"Task ID","Task Name","Project Name",Employee,Category,Type,Date
+1,TSK-074,Hcl,Jwhejhw,"nisha dev",Specific,EC,2020-08-29
+2,TSK-073,Infosis,Jwhejhw,"nisha dev",Specific,EC,2020-09-30
+3,TSK-072,"Unit Task",Jwhejhw,"nisha dev",Generic,EC,2020-09-16
+4,TSK-071,Bshshjs,Gshhsh,"ravi emp employee",Generic,CTE,2020-08-18
+5,TSK-070,"Task 6 By Admin","Project 3 August 16","Employee By PM",Generic,CTO,2020-09-05
+6,TSK-065,"Task 1 August 16","Project 1 August 16","Employee 1 By Admin",Specific,EC,2020-08-29
+7,TSK-069,"TAsk 5 Of Proect 2 By Admin","Project 2 August 16","Employee 2 BY PM",Specific,CTO,2020-08-29
+8,TSK-068,"Task 4 August 16","Project 1 August 16","Employee By PM",Generic,EC,2020-08-29
+9,TSK-067,"Task 3 August 16","Project 1 August 16","Employee 2 BY PM",Specific,EC,2020-08-29
+10,TSK-066,"Task 2 August 16","Project 1 August 16","Employee By PM",Specific,EC,2020-08-29
+11,TSK-064,"Pollution Is A Term Which Even Kids Are Pollu Of These Days. It Has Become So Common That Almost Eve","Infosis 123","Ujjval Sharma",0,abc,2020-08-17
+12,TSK-063,Gshshshsh,"Infosis 123","Gaurav Sharma",0,abc,2020-08-22
+13,TSK-062,Tyyhdhhdhhfhhdhhdhtyyhdhhdhhfhhdhhdhtyyhdhhdhhfhhdhhdhtyyhdhhdhhfhhdhhdhtyyhdhhdhhfhhdhhdhtyyhdhhdhhfhhdhhdhtyyhdhhdhhfhhdhhdhtyyhdhhdhhfhhdhhdh,"Infosis 123","Gaurav Sharma",Generic,CTO,2020-08-16
+14,TSK-061,"Manish Task",Kloudrac-GRC,"Gaurav Sharma",Generic,EC,2020-09-13
+15,TSK-060,"Task 5 On 16 August","Project By Orgnization 16 August","Employee By PM",Generic,EC,2020-08-19
+16,TSK-059,"Task 4 On 16 Agust","Project By Orgnization 16 August","Employee 2 BY PM",Specific,CTO,2020-08-29
+17,TSK-058,"TAsk 3 On 16 August","Project By Orgnization 16 August","Employee 2 BY PM",Specific,CTO,2020-08-29
+18,TSK-057,"Task 2 On 16 August","Project By Orgnization 16 August","Employee 2 BY PM",Specific,EC,2020-08-29
+19,TSK-056,"TAsk 1 On 16 August","Project By Orgnization 16 August","Employee By PM",Generic,CTO,2020-08-29
+20,TSK-055,Taskhd,Kloudrac-GRC,"vimlesh employee",Specific,EC,2020-08-28
+21,TSK-054,United,Kloudrac-GRC,"test user test user",Specific,EC,2020-09-23
+22,TSK-053,"Manish Task",Kloudrac-GRC,"Gaurav Sharma",Generic,EC,2020-09-13
+23,TSK-049,Hshsjsjj123,"TSC All","test user test user",Specific,CTO,2020-08-31
+24,TSK-042,Dzf123,Kloudrac-GRC,"vimlesh employee",Specific,CTE,2020-08-29
+25,TSK-052,Zhhahsh,Bxxbbznznns,"Ujjval Sharma",0,"new comeition",2020-08-13
+26,TSK-051,Hhhh,Bxxbbznznns,"fname q lname",0,"new comeition",2020-08-13
+27,TSK-050,Testit,Hghgg,"Ujjval Sharma",0,EC,2020-08-27
+28,TSK-040,"UIT Task Asdsad",TSC,"bjjkkk ghhh",Generic,EC,2020-08-10
+29,TSK-044,3432,TSC,"Ujjval Sharma",Specific,HT,2020-08-21
+30,TSK-043,"This Isbtest",TSC,"Ujjval Sharma",0,EC,2020-08-27
+31,TSK-041,This,TSC,"Gaurav Sharma",0,EC,2020-08-21
+32,TSK-038,Ttt,TSC,"ravi emp employee",0,"test condition",2020-08-12
+33,TSK-037,Ghh,Arvind++0993,"fname q lname",Specific,GB,2020-08-29
+34,TSK-036,"UIT Task",Kloudrac-GRC,"Ujjval Sharma",Generic,EC,2020-08-10
+35,TSK-035,Rrrrrr,Arvind++0993,"fname q lname",0,temporary,2020-08-09
+36,TSK-024,"Test Compilation","Hi Project 1","ravi emp employee",0,"test condition",2020-08-04
+37,TSK-023,"Test Condition","Hi Project 2","2Agust test",0,"test condition",2020-08-04
+38,TSK-022,"Test Task","Hi Project 2","ravi emp employee",Generic,CTE,2020-08-02
+39,TSK-015,"Test Project123",GTI1,"Gaurav Sharma",Generic,EC,2020-07-31
+40,TSK-014,"GRC Module GRC Task Fuyr Sdfsdf",GTI1,"Gaurav Sharma",Generic,EC,2020-04-30
+41,TSK-013,"GRC Module GRC Task Fuyr",GTI1,"Gaurav Sharma",Generic,EC,2020-04-30
+42,TSK-012,"GRC Module GRC Task",GTI1,"Gaurav Sharma",Generic,EC,2020-04-30
+43,TSK-011,Testjdjjfj,JIT,"Ujjval Sharma",Generic,EC,2020-08-31
+44,TSK-010,Testjdj,JIT,"Ujjval Sharma",Generic,EC,2020-08-31
+45,TSK-009,"Tests Project 2",GTI1,"test user test user",Generic,EC,2020-07-31
+46,TSK-007,"GTI Super Fast","Temp Qq","Ujjval Sharma",Generic,EC,2020-07-24
+47,TSK-005,"Test Pro Task 1","Test Pro1","Gaurav Sharma",Generic,EC,2020-07-17
+48,TSK-002,Bmn,Kloudrac-GRC,"Gaurav Sharma",Generic,CTO,2020-07-12
+49,TSK-001,Wdasdas,Kloudrac-GRC,"Gaurav Sharma",Specific,CTO,2020-07-25

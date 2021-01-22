@@ -1,0 +1,68 @@
+[08-Jan-2020 07:34:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/u73nip9axtlv/public_html/grcgreentest/app/Http/Controllers/SuperAdminController.php on line 2242
+[08-Jan-2020 07:34:42 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/u73nip9axtlv/public_html/grcgreentest/app/Http/Controllers/SuperAdminController.php on line 2242
+[10-Jan-2020 09:40:26 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u73nip9axtlv/public_html/grcgreentest/app/Http/Controllers/SuperAdminController.php on line 2415
+[17-Apr-2020 10:27:59 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u73nip9axtlv/public_html/grcgreentest/app/Helper/CommonHelper.php on line 76
+[17-Apr-2020 10:28:05 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u73nip9axtlv/public_html/grcgreentest/app/Helper/CommonHelper.php on line 76
+[17-Apr-2020 10:28:52 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u73nip9axtlv/public_html/grcgreentest/app/Helper/CommonHelper.php on line 76
+[17-Apr-2020 10:28:55 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u73nip9axtlv/public_html/grcgreentest/app/Helper/CommonHelper.php on line 76
+[17-Apr-2020 10:29:02 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u73nip9axtlv/public_html/grcgreentest/app/Helper/CommonHelper.php on line 76
+[17-Apr-2020 10:29:04 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u73nip9axtlv/public_html/grcgreentest/app/Helper/CommonHelper.php on line 76
+[17-Apr-2020 10:29:10 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u73nip9axtlv/public_html/grcgreentest/app/Helper/CommonHelper.php on line 76
+[17-Apr-2020 10:29:14 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u73nip9axtlv/public_html/grcgreentest/app/Helper/CommonHelper.php on line 76
+[17-Apr-2020 10:29:21 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u73nip9axtlv/public_html/grcgreentest/app/Helper/CommonHelper.php on line 76
+[17-Apr-2020 10:29:22 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u73nip9axtlv/public_html/grcgreentest/app/Helper/CommonHelper.php on line 76
+[17-Apr-2020 10:29:23 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u73nip9axtlv/public_html/grcgreentest/app/Helper/CommonHelper.php on line 76
+[17-Apr-2020 10:30:01 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u73nip9axtlv/public_html/grcgreentest/app/Helper/CommonHelper.php on line 76
+[17-Apr-2020 13:56:54 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u73nip9axtlv/public_html/grcgreentest/app/Http/Controllers/SuperAdminController.php on line 423
+[01-May-2020 06:32:30 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\DashboardController::country() in /home/u73nip9axtlv/public_html/grcgreentest/app/Http/Controllers/Api/DashboardController.php on line 1117
+[01-May-2020 06:34:02 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\DashboardController::country() in /home/u73nip9axtlv/public_html/grcgreentest/app/Http/Controllers/Api/DashboardController.php on line 1117
+[25-May-2020 09:13:23 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\DashboardController::task_status_app() in /home/u73nip9axtlv/public_html/grcgreentest/app/Http/Controllers/Api/DashboardController.php on line 3269
+[25-May-2020 11:31:19 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\DashboardController::delete_project_app() in /home/u73nip9axtlv/public_html/grcgreentest/app/Http/Controllers/Api/DashboardController.php on line 1408
+[25-May-2020 13:01:26 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\DashboardController::project_condition_delete_app() in /home/u73nip9axtlv/public_html/grcgreentest/app/Http/Controllers/Api/DashboardController.php on line 1559
+[25-Jun-2020 14:37:49 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u73nip9axtlv/public_html/grcgreentest/app/Http/Controllers/SuperAdminController.php on line 3343
+[12-Aug-2020 22:20:11 Asia/Kolkata] POST /grcgreentest/public/report_app HTTP/2.0
+Accept-Encoding: gzip
+Authorization:   Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvcHJvamVjdGRlbW9vbmxpbmUuY29tXC9ncmNncmVlbnRlc3RcL3B1YmxpY1wvYXBpbG9naW4iLCJpYXQiOjE1OTcyNTAzMjUsImV4cCI6MTU5NzI1MzkyNSwibmJmIjoxNTk3MjUwMzI1LCJqdGkiOiI0TUZ3ZmJrMHZGMkxVNDJsIiwic3ViIjoxLCJwcnYiOiI4N2UwYWYxZWY5ZmQxNTgxMmZkZWM5NzE1M2ExNGUwYjA0NzU0NmFhIn0.0lv68snm-QWKENpGz7VyUpH5bjNnrNPClFAVJvO3Ogc
+Content-Length:  66
+Content-Type:    application/json
+Host:            projectdemoonline.com
+User-Agent:      okhttp/4.4.0
+X-Https:         1
+
+{"projectdropdown":"60","typeofreport":"sixmonth","condition":"1"}
+[12-Aug-2020 22:20:59 Asia/Kolkata] POST /grcgreentest/public/report_app HTTP/2.0
+Accept-Encoding: gzip
+Authorization:   Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvcHJvamVjdGRlbW9vbmxpbmUuY29tXC9ncmNncmVlbnRlc3RcL3B1YmxpY1wvYXBpbG9naW4iLCJpYXQiOjE1OTcyNTAzMjUsImV4cCI6MTU5NzI1MzkyNSwibmJmIjoxNTk3MjUwMzI1LCJqdGkiOiI0TUZ3ZmJrMHZGMkxVNDJsIiwic3ViIjoxLCJwcnYiOiI4N2UwYWYxZWY5ZmQxNTgxMmZkZWM5NzE1M2ExNGUwYjA0NzU0NmFhIn0.0lv68snm-QWKENpGz7VyUpH5bjNnrNPClFAVJvO3Ogc
+Content-Length:  66
+Content-Type:    application/json
+Host:            projectdemoonline.com
+User-Agent:      okhttp/4.4.0
+X-Https:         1
+
+{"projectdropdown":"60","typeofreport":"sixmonth","condition":"1"}
+[12-Aug-2020 22:22:48 Asia/Kolkata] POST /grcgreentest/public//report_app HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Authorization:   Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvcHJvamVjdGRlbW9vbmxpbmUuY29tXC9ncmNncmVlbnRlc3RcL3B1YmxpY1wvYXBpbG9naW4iLCJpYXQiOjE1OTcyNTExMzksImV4cCI6MTU5NzI1NDczOSwibmJmIjoxNTk3MjUxMTM5LCJqdGkiOiJOMTVaVjVlT28xMzdjeEVtIiwic3ViIjoxLCJwcnYiOiI4N2UwYWYxZWY5ZmQxNTgxMmZkZWM5NzE1M2ExNGUwYjA0NzU0NmFhIn0.1xnJkDRhyXwETv4CGHf4KzG61JZ1laHGLKjY5i1YD3w
+Connection:      keep-alive
+Content-Length:  519
+Content-Type:    multipart/form-data; boundary=--------------------------085845634285627745972311
+Cookie:          XSRF-TOKEN=eyJpdiI6InNobzFqZFZ4SG9uWGp3VXM1U1JPWEE9PSIsInZhbHVlIjoiSUs4aERENlVoZHNDS21CT2hiMWMrMTZ6cnJ6YnNpeUg5RVlHcnpTZnJkcENWS3YyYnRpczBXTkxORG9tYTE2TyIsIm1hYyI6IjE1MTI2OTAzM2NkNjgxYWI2MGU1OTA1NTllYjgxNDRhOGIyN2Q0MTUyNDY4NTdjZjE5MzVkOTc2OWZiYmY2MjEifQ%3D%3D; laravel_session=eyJpdiI6Ik9hbUdYZU1IZEpDcytSTHZBK2k2Umc9PSIsInZhbHVlIjoiUFNOclRSOUU1Zmxhb05NMEw2V3VCS3pFeEVGRTNqV25oZjB3cGpnekhQcWNNNVJ0NzVrU29wMTZoT21NZWpGTiIsIm1hYyI6IjM5Y2RjYzg0N2U5Y2NjMDE5MDJkYWYyOTg1MjNlOGI3MGMwY2M2ODdkMjU3Y2JjNGQzMjM3NmQzNjEzOGZjZTQifQ%3D%3D
+Host:            projectdemoonline.com
+Postman-Token:   a312bafa-b7e6-487b-98a1-ca135de17dbe
+User-Agent:      PostmanRuntime/7.26.3
+X-Https:         1
+Cookie: XSRF-TOKEN=usRS2klr10ye8OoJrTeoGFI10fFvJtZDftgKPZia; laravel_session=S2Abk0j5LlFXEqEALaWZzQcjIf3cks8l5RM3QjNU
+
+
+[12-Aug-2020 22:24:33 Asia/Kolkata] POST /grcgreentest/public/report_app HTTP/2.0
+Accept-Encoding: gzip
+Authorization:   Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvcHJvamVjdGRlbW9vbmxpbmUuY29tXC9ncmNncmVlbnRlc3RcL3B1YmxpY1wvYXBpbG9naW4iLCJpYXQiOjE1OTcyNTAzMjUsImV4cCI6MTU5NzI1MzkyNSwibmJmIjoxNTk3MjUwMzI1LCJqdGkiOiI0TUZ3ZmJrMHZGMkxVNDJsIiwic3ViIjoxLCJwcnYiOiI4N2UwYWYxZWY5ZmQxNTgxMmZkZWM5NzE1M2ExNGUwYjA0NzU0NmFhIn0.0lv68snm-QWKENpGz7VyUpH5bjNnrNPClFAVJvO3Ogc
+Content-Length:  66
+Content-Type:    application/json
+Host:            projectdemoonline.com
+User-Agent:      okhttp/4.4.0
+X-Https:         1
+
+{"projectdropdown":"60","typeofreport":"sixmonth","condition":"1"}
+[18-Aug-2020 04:31:59 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\DashboardController::task_list_app() in /home/u73nip9axtlv/public_html/grcgreentest/app/Http/Controllers/Api/DashboardController.php on line 3462

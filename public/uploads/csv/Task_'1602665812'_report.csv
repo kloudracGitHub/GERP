@@ -1,0 +1,66 @@
+S.No,"Task ID","Task Name","Project Name",Employee,Category,Type,Date
+1,TSK-117,,"Global Goa","Vinod khnna",Generic,GH,2020-10-21
+2,TSK-118,,"Global Goa","test tsdt",Generic,GH,2020-10-28
+3,TSK-119,,"Global Goa","Vinod khnna",Specific,GH,2020-10-30
+4,TSK-116,Bahhsbahabsha,"Global Delhi","fnam lname",Specific,EC,2020-10-12
+5,TSK-115,Bbbb,"Global Delhi","Vinod khnna",Generic,EC,2020-10-14
+6,TSK-114,"Test Task Emp 8","Testy Project 8","Employee 8 Test employee",Generic,CTE,2020-10-13
+7,TSK-113,6546457,"Testy Project","punit kmkkdf",Generic,dfgxvdfcxvb,2020-10-12
+8,TSK-112,"V, V, B Hchc","Testy Project","bjjkkk ghhh",0,lchxlgxlgxg,2020-10-12
+9,TSK-111,Estgtf,"Testy Project","test employee test project",Generic,"6 Monthly Compliance",2020-10-21
+10,TSK-105,"Storm Water Control Is Re - Issue For CGWB Stands For Various Application Shoud Be Ensure","Gold Ring","Ujjval Sharma",Specific,EC,2020-07-01
+11,TSK-106,"This Diesel Generator Set To Be Use During Construction Shall Be Ultra Low Shul Diesel Type Should Uniform Of Enviroment Production Rule Pre Discribe For Air Noise","Gold Ring","punit kmkkdf",Specific,EC,2020-07-16
+12,TSK-107,"A First Aid Room As Proposed In The Project Shall Be Provided Both During Construction And Operation Phase Of The Project.","Gold Ring","Delete Profile",Specific,EC,2020-08-06
+13,TSK-108,"A First Aid Room As Proposed In The Project Shall Be Provided Both During Construction And Operation Phase Of The Project.","Gold Ring","2Agust test",Specific,EC,2020-08-19
+14,TSK-109,"A First Aid Room As Proposed In The Project Shall Be Provided Both During Construction And Operation Phase Of The Project.","Gold Ring","test tsdt",Specific,EC,2020-08-18
+15,TSK-110,"A First Aid Room As Proposed In The Project Shall Be Provided Both During Construction And Operation Phase Of The Project.","Gold Ring","fnam lname",Specific,EC,2020-09-30
+16,TSK-104,Abc,"Supertech CapeVILLA","Gaurav Sharma",Specific,EC,2020-09-24
+17,TSK-103,"Storm Water Control Is Re - Issue For CGWB Stands For Various Application Shoud Be Ensure",Dabar,"Vinod khnna",Specific,EC,2020-09-30
+18,TSK-102,"Task 23467","Test Project 5 Sep"," ",Generic,EC,2020-09-24
+19,TSK-101,Ui,"Test Project 5 Sep","punit kmkkdf",0,EC,2020-09-28
+20,TSK-098,Vicky1,"Test Project 5 Sep","Ujjval Sharma",0,HT,2020-09-30
+21,TSK-097,Nisha,"Test Project 5 Sep","nisha dev",0,HT,2020-09-17
+22,TSK-096,Ujjval,"Test Project 5 Sep"," ",0,HT,2020-09-25
+23,TSK-095,"Test Task 5 Sep","Test Project 5 Sep"," ",Generic,EC,2020-09-05
+24,TSK-094,"Consent For Establish  Shall Be Obtained From Haryana State Pollution Control Board Under Air   Water Act   A Copy Shall Be Submitted To The SEIAA  Haryana Before The Start Of Any Construction Work At Site.!@#$%^  ()","Test Project 5 Sep","test tsdt",Specific,EC,2020-09-05
+25,TSK-092,"Test Task 5 Sep","Test Project 5 Sep","test user 5 sep 3",Generic,EC,2020-09-05
+26,TSK-089,"Task For Kerla Project","Project For Kerla"," ",Generic,EC,2020-08-31
+27,TSK-088,"The Project Proponent Shall Not Violate Any Judicial Orders/ Pronouncements Issued By Court/tribunal","Project For Kerla","punit kmkkdf",Generic,EC,2020-09-30
+28,TSK-090,"Test Task 3 Sep","New Project For Report Test","punit kmkkdf",Generic,EC,2020-09-03
+29,TSK-079,"Consent For Establish Shall Be Obtained From Haryana State Pollution Control Board Under Air And Water Act And A Copy Shall Be Submitted To The SEIAA  Haryana Before The Start Of Any Construction Work At Site.","Project For Kerla","test tsdt",Specific,EC,2020-09-25
+30,TSK-080,"A First Aid Room As Proposed In The Project Report Shall Be Provided Both During Construction And Operational Phase Of The Project.","Project For Kerla","2Agust test",Specific,EC,2020-08-29
+31,TSK-081,"Adequate Drinking Water And Sanitary Facilities Shall Be Provided For Construction Workers At The Site. Provision Should Be Made For Mobile Toilets. Open Defecation By The Labors Is Strictly Prohibited. The Safe Disposal Of Waste Water And Solid Wastes Generated During The Construction Phase Should Be Ensured. Efforts Shall Be Made To Provide The Mobile STP For Treatment Of Waste Water During The Construction Phase.","Project For Kerla"," ",Specific,EC,2020-09-29
+32,TSK-082,"All The Top Soil Excavated During Construction Activities Should Be Stored For Use In Horticulture/landscape Development Within The Project Site.","Project For Kerla","bjjkkk ghhh",Specific,EC,2020-10-31
+33,TSK-083,"The Project Proponent Shall Ensure That The Building Material Required During Construction Phase Is Properly Stored Within The Project Area And Disposal Of Construction Waste Should Not Create Any Adverse Effect On The Neighboring Communities And Should Be Disposed Off After Taking Necessary Precautions For General Safety And Health Aspect Of People  Only In Approved Sites With The Approval Of Competent Authority","Project For Kerla","bjjkkk ghhh",Specific,EC,2020-09-30
+34,TSK-084,"The Project Proponent Shall Ensure The Commitments Made In Form-1  Form-1A  EIA/EMP And Other Documents Submitted To The SEIAA For The Protection Of Environment And Proposed Environmental Safeguards Are Complied With In Letter And Spirit. In Case Of Contradiction Between The Two Or More Documents On Any Point  The Most Environmentally Friendly Commitment On The Point Shall Be Taken As Commitment On The Point Shall Be Taken As Commitment By Project Proponent.","Project For Kerla","punit kmkkdf",Generic,EC,2020-09-30
+35,TSK-085,"The PP Shall Also Submit Six Monthly Reports On The Status Of Compliance Of The Stipulated EC Conditions Including Results Of The Monitored Data (both In Hard Copies As Well As By Email) To The Northern Regional Office Of MoEF   CC  The Respective Zonal Office Of CPCB  HSPCB   SEIAA Haryana.","Project For Kerla","bjjkkk ghhh",Generic,EC,2020-09-30
+36,TSK-086,"STP Outlet After Stabilization And Stack Emission Shall Be Monitored Monthly. Other Environmental Parameters And Green Belt Shall Be Monitored On Quarterly Basis. After Every 3 (three) Months  The Project Proponent Shall Conduct Environmental Audit And Shall Take Corrective Measures  If Required Without Delay.","Project For Kerla","punit kmkkdf",Generic,EC,2020-09-30
+37,TSK-087,"The SEIAA  Haryana Reserves The Right To Add Additional Safeguard Measure Subsequently  If Found Necessary. Environmental Clearance Granted Will Be Revoked If It Is Found That False Information Has Been Given For Getting Approval Of This Project. SEIAA Reserves The Right To Revoke The Clearance If Conditions Stipulated Are Not Implemented To The Satisfaction Of SEIAA/MoEFCC.","Project For Kerla","Delete Profile",Generic,EC,2020-09-30
+38,TSK-078,Zzzz,"New Project For Report Test","Ujjval Sharma",0,EC,2020-08-27
+39,TSK-077,"New Condition Ok","GRC India Pvt Ltd","Gaurav Sharma",0,EC,2020-08-22
+40,TSK-076,"New Compa",Ndkdkksksks,"Gaurav Sharma",Generic,EC,2020-08-30
+41,TSK-075,"This This New Condition",Ndkdkksksks,"Gaurav Sharma",0,EC,2020-09-24
+42,TSK-074,Hcl,Jwhejhw,"nisha dev",Specific,EC,2020-08-29
+43,TSK-073,Infosis,Jwhejhw,"nisha dev",Specific,EC,2020-09-30
+44,TSK-072,"Unit Task",Jwhejhw,"nisha dev",Generic,EC,2020-09-16
+45,TSK-071,Bshshjs,Gshhsh," ",Generic,CTE,2020-08-18
+46,TSK-064,"Pollution Is A Term Which Even Kids Are Pollu Of These Days. It Has Become So Common That Almost Eve","Infosis 123","Ujjval Sharma",0,abc,2020-08-17
+47,TSK-063,Gshshshsh,"Infosis 123","Gaurav Sharma",0,abc,2020-08-22
+48,TSK-062,Tyyhdhhdhhfhhdhhdhtyyhdhhdhhfhhdhhdhtyyhdhhdhhfhhdhhdhtyyhdhhdhhfhhdhhdhtyyhdhhdhhfhhdhhdhtyyhdhhdhhfhhdhhdhtyyhdhhdhhfhhdhhdhtyyhdhhdhhfhhdhhdh,"Infosis 123","Gaurav Sharma",Generic,CTO,2020-08-16
+49,TSK-049,Hshsjsjj123,"TSC All"," ",Specific,CTO,2020-08-31
+50,TSK-052,Zhhahsh,Bxxbbznznns,"Ujjval Sharma",0,"new comeition",2020-08-13
+51,TSK-051,Hhhh,Bxxbbznznns," ",0,"new comeition",2020-08-13
+52,TSK-037,Ghh,Arvind++0993," ",Specific,GB,2020-08-29
+53,TSK-035,Rrrrrr,Arvind++0993," ",0,temporary,2020-08-09
+54,TSK-024,"Test Compilation","Hi Project 1"," ",0,"test condition",2020-08-04
+55,TSK-023,"Test Condition","Hi Project 2","2Agust test",0,"test condition",2020-08-04
+56,TSK-022,"Test Task","Hi Project 2"," ",Generic,CTE,2020-08-02
+57,TSK-015,"Test Project123",GTI1,"Gaurav Sharma",Generic,EC,2020-07-31
+58,TSK-014,"GRC Module GRC Task Fuyr Sdfsdf",GTI1,"Gaurav Sharma",Generic,EC,2020-04-30
+59,TSK-013,"GRC Module GRC Task Fuyr",GTI1,"Gaurav Sharma",Generic,EC,2020-04-30
+60,TSK-012,"GRC Module GRC Task",GTI1,"Gaurav Sharma",Generic,EC,2020-04-30
+61,TSK-011,Testjdjjfj,JIT,"Ujjval Sharma",Generic,EC,2020-08-31
+62,TSK-010,Testjdj,JIT,"Ujjval Sharma",Generic,EC,2020-08-31
+63,TSK-009,"Tests Project 2",GTI1," ",Generic,EC,2020-07-31
+64,TSK-007,"GTI Super Fast","Temp Qq","Ujjval Sharma",Generic,EC,2020-07-24
+65,TSK-005,"Test Pro Task 1","Test Pro1","Gaurav Sharma",Generic,EC,2020-07-17
